@@ -27,7 +27,7 @@ This repository contains a responsive **Login Form** created using **HTML**, **C
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/login-form.git
+   git clone https://github.com/VeerSinghLodhi/Login-Form.git
 
  2. Navigate to the project folder:
     ```bash
