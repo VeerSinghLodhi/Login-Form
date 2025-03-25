@@ -21,13 +21,7 @@ This repository contains a responsive **Login Form** created using **HTML**, **C
 
 ---
 
-## Preview
 
-![Login Form Screenshot](./screenshot.png)
-
-*Note: Replace `screenshot.png` with the path to an actual screenshot of your form.*
-
----
 
 ## How to Use
 
